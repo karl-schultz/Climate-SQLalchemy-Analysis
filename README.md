@@ -1,1 +1,1 @@
-Karl Schultz's submission for Week 10 Challenge assignment for University of Oregon Data Analytics Bootcamp.
+This project uses SQLalchemy to query and analyze climate data from Honolulu, Hawaii to assist with trip planning. Using SQLalchemy to bring in data from a SQLite database allows us far greater sophistication because it allows us to analyze and visualize the queried data with Python's capabilities (such as pandas, matplotlib). The second part of this project designs an app with Flask API that allows us to query the climate data on a locally served webpage.
